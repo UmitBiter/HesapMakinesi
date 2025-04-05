@@ -1,0 +1,40 @@
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\nefre\source\repos\HesapMakinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csprojAssemblyReference.cache
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\nefre\Desktop\Hesap Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\Excalibur\Desktop\C-ile-Hesap-Makinesi-master\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe.config
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.exe
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\bin\Debug\HesapMakinesi.pdb
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Form1.resources
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.Properties.Resources.resources
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.GenerateResource.cache
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.exe
+C:\Users\Excalibur\Desktop\Hesap-Makinesi\HesapMakinesi\obj\Debug\HesapMakinesi.pdb
